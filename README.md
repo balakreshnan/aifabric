@@ -21,7 +21,7 @@ Our goal is to provide guidance for any type of organization regardless the size
 - Provide platform to build own IP with new custom models
 - Innovation plaform
 
-[!(https://github.com/balakreshnan/aifabric/blob/main/images/aifabmesh.jpg)](Architecture)
+[![name](https://github.com/balakreshnan/aifabric/blob/main/images/aifabmesh.jpgupdated)](Architecture)
 
 ## Architecture / Concept explained
 
