@@ -1,11 +1,19 @@
-# aifabric
-AI and ML Fabric
+# Aritificial intelligence Mesh/Fabric - An Innovation platform
 
-A platform that has intergated environment for various AI/ML related information
+## Build distributed or centralized AI Hub/Mesh
 
-Entire end to end. This is not RPA repo, Robotic process automation is not really AI/ML
-
-This is for Future AI/ML platform with sustainability.
+- AI and ML Fabric
+- A platform that has intergated environment for various AI/ML related information
+- Entire end to end.
+- Build a sustainable AI/ML platform to save the planet
+- Improve better process and increase productivity
+- Provide Insights for workers to be intelligent augumented workforce
+- Fully automated deployment with CI/CD
+- Secured and DevSecOps
+- Monitor and governance
+- Maintain compliance for legal, privacy and country specific regulations
+- Provide platform to build own IP with new custom models
+- Innovation plaform
 
 [![name](https://github.com/balakreshnan/aifabric/blob/main/images/aifabmesh.jpg)](Architecture)
 
