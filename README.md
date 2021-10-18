@@ -6,6 +6,10 @@ Artificail intelligence is a new technology space. So there is no cookie cut pro
 
 Our goal is to provide guidance for any type of organization regardless the size to innovate with artificial intelligence.
 
+Outcome:
+
+Achieve 90% AI/ML use cases with platform
+
 ## Build distributed or centralized AI Hub/Mesh
 
 - AI and ML Fabric
