@@ -1,6 +1,6 @@
-# AI Innovation platform - Aritificial intelligence Mesh/Fabric for Enterprises/Small/Medium companies
+# AI Innovation platform - Artificial intelligence Mesh/Fabric for Enterprises/Small/Medium companies
 
-## Why do we need it?
+## How do you get started with AI?
 
 Artificail intelligence is a new technology space. So there is no cookie cut process available since brand new technology. So there is lots of risk involved but also huge rewards when Aritifical intelligence is used right. Be responsible when creating AI/ML/DL/RL. Even though this is new technology, when it's applied properly there a lot's of rewards.
 
