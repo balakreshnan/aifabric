@@ -1,5 +1,10 @@
 # AI Innovation platform - Artificial intelligence Mesh/Fabric for Enterprises/Small/Medium companies
 
+## Authors
+
+- Balamurugan Balakreshnan (Bala)
+- Shruti Harish
+
 ## How do you get started with AI?
 
 Artificial intelligence is an innovative technology space. There is no cookie-cutter process available, since brand new technology. There are a lot of risk involved, but also, huge rewards when Artificial intelligence is used right. You need to be responsible when creating AI/ML/DL/RL. Even though this is new technology, when it's applied properly there are lots of rewards.
@@ -110,49 +115,3 @@ Our goal is to build a comprehensive AI/ML platform to provide the following cap
 - use Application insights to store runtime errors
 - Now to manage operations use monitor the platform
 - AI/ML Hub/Mesh section can be distributed across different regions or countries
-
-## Details
-
-Platform provides enterprises to innovate with AI. Platform shall provide access to open source data set and participate and share dataset across other to do crowd source. This allows us to learn and share the learning.
-
-Provide proper governance to data, like what can be shared, for example any PII or sensitive data can be anonymized or encrypted as needed so that we protect privacy and security of the data it self.
-
-Every organization should have ability to provide their workforce a learning platform to innovate with AI. Also should provide a platform for research and development and create new AI use cases and applications.
-
-Yes there are some use cases where we can get prebuilt AI for certain use cases. We can also get prebuilt cognitive AI services for come technology area which can also be leveraged to build new apps, or modernize apps or built insights from data to drive data and ai driven insights.
-
-Platform has to be generic to able to use open source algorithm and also ability to choose technology and compute such as cpu, gpu, tensor, fpga or quantum or what comes in future.
-
-Also provide capability to create and use and integrate AI from internal or buy and consume. 
-Should scale with resource and workforce.
-
-Platform should provide variations to deploy model built for various inferencing technologies. for example for batch inferencing we can automate with devops, for realtime/event based we can deploy as REST API using web technologies like AKS or Web Service.
-
-Platform should provide access to do data labelling for various use case and projects. Aility to do image segmentation or crowd source for text, images, video for various use cases like legal document classification, autonomous driving object segmentation, image, video tagging for social platforms.
-
-Platform has to secure for infrastructure components. Platform can be extendable based on technology growth. Governance has to enable technology growth.
-
-Consistence learning and research should be part of the process.
-
-Platform should provide access to build or buy for these below and more use cases.
-
-- Predictive Mainteanance
-- Autonous driving , road vehicles, flying, train and water based.
-- Knowlege mining or center style to classify, translate document to different languages, pull text ot identify objects in image, pdf or other sources like video
-- Conversation agent with natural language and translation for various use cases
-- Workplace safety for Employee and safety use cases
-- Journalism and other media based use cases
-- Vision based quality use cases for various industry
-- Use cases for health care - there is a huge list
-- Robotics - autonomous decision making
-- Forecasting for various areas
-- Building process automation for repeatable process using form or images like bill processing, or mortage form processing or w2 processing
-- Inspection form validation, Testing or qa results processing for mechanical equipments
-- Covid use cases like social distancing, vaccine card verification, mask detection
-- Supply chain use case for perisable and non perisable goods
-- Smart building and Smart cities use cases
-- New product development for consumer industry like retail and home goods
-- Use AI to save the planet - Sustainability use cases
-- Call center agents, assisted agents, Call quality analytics
-- Sales and marketing, co sell, up sell, segmentation analysis
-- There are other use cases missed, still the platform should provide access to build and innovate
